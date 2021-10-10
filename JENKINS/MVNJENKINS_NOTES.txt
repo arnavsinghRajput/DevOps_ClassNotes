@@ -27,6 +27,7 @@ ESC :wq!
 
 INSTALL JENKINS
 website - jenkins.io
+          https://pkg.jenkins.io/redhat-stable/
 Go to https://pkg.jenkins.io/redhat-stable/
 
 and copy these commands
